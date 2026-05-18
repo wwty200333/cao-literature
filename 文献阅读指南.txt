@@ -1,0 +1,243 @@
+================================================================================
+  曹老师文献集 — 推荐阅读顺序指南
+  阅读起点：已完成 MYB + R2R3-MYB (种子油) 两篇
+================================================================================
+
+一、核心观察
+
+从30篇文献的共作者分析看，曹老师（Yunpeng Cao）的研究主线为：
+  植物基因组学 + 转录因子调控 + 次生代谢 → 园艺作物品质与抗逆
+依托单位：CAS武汉植物园 · 植物种质创新与特色农业重点实验室
+
+=============================================================================
+二、建议剔除的文献（6篇）
+=============================================================================
+
+  ✕ 1. Machine learning for the micropeptide encoded by LINC02381...
+       理由：人胶质母细胞瘤(GBM)研究，与植物完全无关。推测为早期合作项目。
+
+  ✕ 2. animals-12-03593-v2.pdf (TRP Gene Family in Saurian)
+       理由：爬行动物TRP基因家族，非植物领域。
+
+  ✕ 3. Chromosome-level genome of Scolopendra mutilans (蜈蚣)
+       理由：蜈蚣基因组，动物学/中药资源方向，偏离植物主线。
+       备注：若对中药资源方向感兴趣可保留，但优先级较低。
+
+  ✕ 4-5. Multi-omics and computational biology... (重复2份)
+       理由：同一篇Editorial的3份副本，保留1份即可（用原版，无编号后缀的）。
+       建议只读：Multi-omics and computational biology in horticultural
+       plants from genotype to phenotype.pdf
+
+  ✕ 6. The synergistic gelation of novel Bletilla striata polysaccharide...
+       理由：白及多糖+透明质酸凝胶，偏向生物材料/药剂学，非实验室核心方向。
+       若对白及应用转化感兴趣可保留。
+
+=============================================================================
+三、推荐阅读顺序（共24篇，分5个阶段）
+=============================================================================
+
+┌─────────────────────────────────────────────────────────────────┐
+│ 阶段一：转录因子调控网络基础（4篇）— 在你已读MYB基础上扩展   │
+└─────────────────────────────────────────────────────────────────┘
+
+  已读 ✓ MYB Transcription Factors as Regulators of Secondary Metabolism
+        → MYB + 次生代谢综述，建立了TF→代谢的认知框架
+
+  已读 ✓ Large-scale analysis of putative Euphorbiaceae R2R3-MYB...
+        → 具体案例：R2R3-MYB如何调控种子油合成
+
+  [1]  Differential involvement of WRKY genes in abiotic stress
+       tolerance of Dendrobium huoshanense
+       理由：WRKY是文献集中频率第1的基因家族(359次)。从MYB→WRKY，
+       拓展对植物两大TF家族的理解。以霍山石斛为模型，涵盖非生物胁迫。
+
+  [2]  Deciphering evolutionary dynamics of WRKY I genes in Rosaceae
+       species
+       理由：WRKY进化动态，聚焦蔷薇科（含梨、桃等曹老师主要研究对象）。
+       衔接WRKY→蔷薇科→进化分析方法。
+
+  [3]  Functional characterization of NBS-LRR genes reveals an
+       NBS-LRR gene that mediates resistance against Fusarium wilt
+       理由：NBS-LRR是第3高频抗病基因家族(137次)。引入植物免疫视角，
+       与WRKY的胁迫调控形成互补。以枯萎病(Fusarium wilt)为模型。
+
+  [4]  Evolutionary insight and characterization of WOX genes in
+       callus development and differentiation of Peucedanum praeruptorum
+       理由：WOX是第4高频TF家族，链接发育调控（愈伤组织/体细胞胚）。
+       以前胡(Peucedanum praeruptorum)为模型——这是中药植物，
+       体现了曹老师研究的中药资源方向。
+
+  阶段一总结：4篇覆盖 WRKY→NBS-LRR→WOX 三大TF家族 + 胁迫/发育/免疫
+
+┌─────────────────────────────────────────────────────────────────┐
+│ 阶段二：植物基因组学方法（5篇）                                 │
+└─────────────────────────────────────────────────────────────────┘
+
+  [5]  Multi-omics and computational biology in horticultural plants
+       from genotype to phenotype.pdf （只读该版本）
+       理由：Editorial综览多组学方法在园艺植物中的应用。篇幅短(4页)，
+       快速建立方法学全局观，了解曹老师的学术网络（合作者/编委身份）。
+
+  [6]  Genome annotation, comparative genomics and transcriptomic
+       analysis of Eucalyptus cloeziana...
+       理由：桉树基因组注释+比较基因组+转录组，是典型的基因组学分析范式。
+       涵盖基因家族鉴定、共线性分析、选择压力等常规分析流程。
+
+  [7]  In-depth analysis of genomes and functional genomics of orchid
+       using cutting-edge high-throughput sequencing
+       理由：兰花基因组与功能基因组学综述。高吞吐量测序技术视角，
+       补充方法学认知。兰花是中国传统名花，有园艺学和产业价值。
+
+  [8]  Rosaceae phylogenomic studies provide insights into the
+       evolution of new genes
+       理由：蔷薇科系统发育基因组学+新基因进化。蔷薇科是曹老师核心
+       研究对象（梨/桃均属蔷薇科），这篇是理解该科进化框架的关键文献。
+
+  [9]  Haplotype-resolved genome of hexaploid Solanum nigrum
+       理由：龙葵（六倍体）单倍型基因组组装。展示了多倍体植物基因组
+       组装的前沿技术（haplotype-resolved），是gap-free genome的进阶。
+
+  阶段二总结：从方法综览 → 基因组注释 → 功能基因组 → 系统发育 → 多倍体组装
+
+┌─────────────────────────────────────────────────────────────────┐
+│ 阶段三：核心研究系统—梨(Pyrus)与蔷薇科果实品质（5篇）         │
+└─────────────────────────────────────────────────────────────────┘
+
+  [10] Pear genomes display significant genetic diversity and provide
+       novel insights into the fruit quality traits differentiation
+       理由：梨基因组遗传多样性与果实品质性状分化。全面展示梨的
+       基因组变异如何影响品质——这是曹老师核心研究方向的集中体现。
+
+  [11] Gap-free genome assemblies of two Pyrus bretschneideri cultivars
+       and GWAS analyses identify a CCCH zinc finger protein as a key
+       regulator of stone cell formation in pear fruit
+       理由：★ 重点文献！gap-free基因组+GWAS定位到CCCH锌指蛋白
+       调控石细胞形成。石细胞直接影响梨口感品质，兼具基础与产业意义。
+       篇幅较长(66页)，建议细读方法和结论部分。
+
+  [12] Functional and kinetics of two efficient phenylalanine ammonia
+       lyase from Pyrus bretschneideri
+       理由：PAL酶功能+动力学。PAL是苯丙烷途径入口酶(频次165)，
+       连接初生→次生代谢。理解梨中PAL的生化特性，对石细胞/木质素
+       研究至关重要。承接上一篇的石细胞表型，深入酶学机制。
+
+  [13] De novo gene integration into regulatory networks via
+       interaction with conserved genes in peach
+       理由：桃(蔷薇科)新基因(de novo gene)如何整合入已有调控网络。
+       从进化创新角度理解基因网络演化，视角独特。桃与梨同属蔷薇科。
+
+  [14] The red flower wintersweet genome provides insights into the
+       evolution of magnoliids and...
+       理由：红花蜡梅基因组+木兰类进化。蜡梅是中国特色观赏植物，
+       红色花色涉及花青素合成（苯丙烷途径分支），与前文代谢通路呼应。
+
+  阶段三总结：从梨多样性和品质 → GWAS+石细胞 → PAL酶学 → 蔷薇科新基因 → 近缘物种
+
+┌─────────────────────────────────────────────────────────────────┐
+│ 阶段四：代谢途径与产物调控（5篇）                               │
+└─────────────────────────────────────────────────────────────────┘
+
+  [15] Deciphering the roles of leucine-rich repeat receptor-like
+       protein kinases
+       理由：LRR-RLK受体样激酶综述。LRR在文献中频率极高(237次)，
+       RLK是细胞表面信号感知和执行的核心元件。补全信号转导环节认知。
+
+  [16] MYB Transcription Factors as Regulators of Secondary Metabolism
+       in Plants （已读，可速览回顾）
+
+  [17] Beyond Glycolysis: Multifunctional Roles of Glyceraldehyde-
+       3-phosphate Dehydrogenase in Plants
+       理由：GAPDH多功能性综述。GAPDH不仅参与糖酵解，还在核内发挥
+       转录调控、氧化还原感应等非经典功能。拓展"酶多功能性"认知。
+
+  [18] Physiologia Plantarum - Phylogenomics and functional analysis
+       of Glycerol-3-Phosphate Acyltransferase (GPAT)
+       理由：GPAT系统发育+功能分析。GPAT是TAG生物合成的第一步酶，
+       承接你已读的种子油合成文献(Euphorbiaceae MYB→oil)。
+
+  [19] The core triacylglycerol toolbox in woody oil plants reveals
+       targets for oil production bioengineering
+       理由：木本油料植物TAG合成核心工具箱。生物能源方向，
+       与GPAT和已读的R2R3-MYB/种子油文献形成油脂代谢完整链条。
+
+  阶段四总结：信号感知(LRR-RLK) → 代谢多功能酶(GAPDH) → 油脂代谢(GPAT→TAG)
+
+┌─────────────────────────────────────────────────────────────────┐
+│ 阶段五：专题拓展—胁迫、翻译后修饰与采后（5篇）                 │
+└─────────────────────────────────────────────────────────────────┘
+
+  [20] Evolution and function of ubiquitin-specific proteases
+       理由：UBP（泛素特异性蛋白酶）综述。泛素化是翻译后修饰的核心，
+       调控蛋白稳定性。UBP负责去泛素化，在发育和胁迫响应中至关重要。
+       频次52，是实验室另一个研究切入点。
+
+  [21] AHL's life in plants: Especially their potential roles in
+       responding to...
+       理由：AHL（AT-hook核定位蛋白）在植物胁迫响应中的角色。
+       AHL是相对较新的TF类群，了解前沿研究动态。频次43。
+
+  [22] Postharvest treatment with Bacillus velezensis LX mitigates
+       disease incidence and alters the microbiome on kiwifruit surface
+       理由：采后生物防治+微生物组。芽孢杆菌LX处理猕猴桃减少病害。
+       衔接NBS-LRR抗病主题，转向应用层面的生物防治策略。
+
+  [23] Ultrasound-assisted metabolite detection in different
+       extraction processes of Bletilla striata and bitter metabolite...
+       理由：超声辅助提取白及代谢物+苦味物质检测。展示了代谢组学
+       在中药植物中的应用，白及(Bletilla striata)是曹老师另一个研究物种。
+       补充方法学（HPLC/GC-MS/超声提取）认知。
+
+  [24] The synergistic gelation of novel Bletilla striata polysaccharide
+       with hyaluronic acid: Characterization, rheology
+       理由（可选）：白及多糖+透明质酸协同凝胶，偏生物材料应用。
+       若对白及综合利用和成果转化感兴趣可读，否则可跳过。
+
+  阶段五总结：翻译后修饰 → 胁迫TF → 采后生物防治 → 中药代谢物 → 材料应用
+
+=============================================================================
+四、阅读优先级速查表
+=============================================================================
+
+  优先级    文献编号    关键词                        预计投入
+  ─────────────────────────────────────────────────────────
+  ★★★ 必读  [1]-[4]   WRKY/NBS-LRR/WOX TF家族      每篇1-2h
+  ★★★ 必读  [5]-[9]   基因组学方法+蔷薇科进化       每篇1-3h
+  ★★★ 必读  [10]-[12] 梨基因组+石细胞+PAL           每篇2-4h
+  ★★  推荐  [13]-[14] 桃新基因+蜡梅基因组           每篇1-2h
+  ★★  推荐  [15][17]  LRR-RLK/GAPDH综述            每篇1-2h
+  ★★  推荐  [18]-[19] GPAT/TAG油脂代谢              每篇1-2h
+  ★   选读  [20]-[23] UBP/AHL/采后/白及代谢          每篇1-2h
+  ☆   可跳  [24]       白及多糖凝胶                  按兴趣
+
+=============================================================================
+五、阅读建议
+=============================================================================
+
+  1. 每个阶段内部建议按编号顺序阅读，逻辑是：
+     综述/方法先行 → 具体案例跟进 → 相关物种拓展
+
+  2. 阶段一~三（14篇）是核心，覆盖了曹老师实验室的主要研究方向：
+     转录因子 → 基因组学 → 蔷薇科/梨 → 果实品质
+
+  3. 阅读时关注：
+     - 曹老师在每篇中的作者位置（通讯/共同通讯）
+     - 合作者网络（Lan Jiang, Hui Song, Liangsheng Zhang等高频合作者）
+     - 方法学范式（不同论文中反复出现的分析流程）
+
+  4. 时间规划建议（假设每周阅读3-4篇）：
+     - 第1-2周：阶段一（4篇）→ 建立TF全貌
+     - 第3-4周：阶段二（5篇）→ 掌握基因组学方法
+     - 第5-6周：阶段三（5篇）→ 深入核心系统
+     - 第7-8周：阶段四+五 → 拓展专题
+
+=============================================================================
+附：被剔除文献完整列表与理由
+=============================================================================
+
+  1. Machine learning...LINC02381...glioblastoma   → 人GBM肿瘤，非植物
+  2. animals-12-03593-v2 (TRP in Saurian)           → 爬行动物，非植物
+  3. Scolopendra mutilans genome                    → 蜈蚣基因组，动物学
+  4. Multi-omics...(无编号后缀版之外的2份副本)       → 重复文件
+  5. Bletilla striata polysaccharide + HA gelation   → 生物材料，偏离主线
+
+=============================================================================

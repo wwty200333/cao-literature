@@ -1,0 +1,10 @@
+# Temporary scripts
+*_temp.py
+check_methods.py
+extract_terms.py
+output_results.py
+generate_explanations.py
+
+# Office temp files
+~$*.docx
+~$*.xlsx

@@ -1,0 +1,226 @@
+======================================================================
+  曹老师文献专有名词频率统计（共30篇文献）
+======================================================================
+
+--------------------------------------------------
+一、转录因子 / 基因家族（TOP 40）
+--------------------------------------------------
+排名    专有名词           频次      说明
+1     WRKY           359     WRKY转录因子家族
+2     MYB            335     MYB转录因子家族
+3     LRR            237     富含亮氨酸重复
+4     DNA            215     
+5     RNA            206     
+6     BMC            192     
+7     PAL            165     苯丙氨酸解氨酶
+8     WGD            160     全基因组复制
+9     BSP            143     
+10    NBS            137     核苷酸结合位点
+11    TRP            126     瞬时受体电位通道
+12    GAPDH          117     甘油醛-3-磷酸脱氢酶
+13    PCR            111     聚合酶链式反应
+14    WOX            98      WOX转录因子家族
+15    HA             84      
+16    LX             84      
+17    DS             66      
+18    ZS             61      
+19    GBM            61      
+20    MF             54      
+21    GC             53      
+22    UBP            52      泛素特异性蛋白酶
+23    MS             52      
+24    RLK            49      受体样激酶
+25    NCBI           47      
+26    ML             47      
+27    KEGG           45      
+28    AHL            43      AT-hook核定位蛋白
+29    PPC            43      
+30    CCCH           42      CCCH锌指蛋白
+31    SD             40      
+32    GAPC           36      胞质GAPDH
+33    ABA            35      脱落酸
+34    CK             35      细胞分裂素
+35    ZUF            35      
+36    CC             34      
+37    OA             34      
+38    GPAT           34      甘油-3-磷酸酰基转移酶
+39    FPKM           33      每百万片段中每千碱基片段数
+40    CDS            33      编码序列
+
+--------------------------------------------------
+二、核心生物学概念（TOP 40）
+--------------------------------------------------
+排名    术语                                      频次
+1     MYB                                     426
+2     WRKY                                    359
+3     phenylalanine ammonia lyase (PAL)       205
+4     chromosome                              195
+5     R2R3-MYB                                129
+6     phylogenetic tree/analysis              124
+7     promoter                                105
+8     WOX                                     98
+9     amino acid                              87
+10    gene expression                         86
+11    transcription factor                    81
+12    genome assembly                         71
+13    NBS-LRR                                 63
+14    genome annotation/evolution             54
+15    stress response/tolerance               49
+16    ubiquitin/ubiquitination                45
+17    cell wall                               42
+18    secondary metabolism                    32
+19    leucine-rich repeat                     31
+20    co-expression                           30
+21    comparative genomics                    29
+22    seed oil                                29
+23    abiotic stress                          27
+24    fatty acid                              25
+25    plant hormone (JA/SA/ABA)               25
+26    MADS-box                                18
+27    bHLH                                    17
+28    signal transduction                     14
+29    callus development                      11
+30    protein kinase/phosphatase              10
+31    wood formation                          8
+32    zinc finger                             5
+33    NAC                                     4
+34    biotic stress                           3
+35    quantitative trait                      3
+36    ERF/AP2                                 3
+37    reactive oxygen species                 2
+38    bZIP                                    1
+39    GRAS                                    1
+40    ARF                                     1
+
+--------------------------------------------------
+三、物种名称（TOP 30）
+--------------------------------------------------
+排名    物种                                      频次
+1     Zhang et al                             97
+2     Cao et al                               93
+3     Li et al                                72
+4     Wang et al                              58
+5     Jiang et al                             48
+6     In this study                           47
+7     Arabidopsis thaliana                    39
+8     Pyrus bretschneideri                    38
+9     Downloaded from https                   37
+10    Chen et al                              37
+11    Zhou et al                              36
+12    Library on                              34
+13    See the                                 34
+14    Terms and                               34
+15    Library for rules                       34
+16    Based on the                            33
+17    Biology and                             33
+18    Vernicia fordii                         32
+19    In our study                            32
+20    Additional file                         30
+21    Science frontiersin                     30
+22    Wu et al                                29
+23    Song et al                              28
+24    Fusarium wilt                           27
+25    According to the                        26
+26    Asian and                               26
+27    The authors declare                     25
+28    Formal analysis                         25
+29    Vitis vinifera                          24
+30    Tung tree                               24
+
+--------------------------------------------------
+四、高频具体基因（TOP 30）
+--------------------------------------------------
+排名    基因名                      频次
+1     PbPAL1                   160
+2     PbdsZF                   78
+3     PbPAL2                   56
+4     VfGPAT9                  51
+5     LINC02381                47
+6     CpMYB1                   42
+7     PpWOX15                  41
+8     VfGPAT8                  41
+9     PpWOX9                   38
+10    PsbM                     35
+11    VfMYB36                  32
+12    PbWLIM1                  24
+13    PsbF                     24
+14    PpWOX14                  22
+15    CpANS1                   22
+16    ZAFU1                    21
+17    NRF2                     18
+18    TRPV2                    17
+19    PsbMGH3                  17
+20    WRKY64                   16
+21    HISAT2                   14
+22    TRPM8                    13
+23    PpWOX13                  13
+24    GH3                      13
+25    VfGPAT1                  13
+26    ATS1                     13
+27    PRJNA483508              12
+28    TRPC5                    12
+29    WOX11                    12
+30    VfGPAT3                  12
+
+--------------------------------------------------
+五、技术方法与分析工具（TOP 25）
+--------------------------------------------------
+排名    方法/工具                         频次
+1     PCR                           111
+2     genome-wide analysis          107
+3     transcriptome/transcriptomic  104
+4     RNA-seq                       95
+5     GO                            79
+6     Hi-C                          62
+7     KEGG                          49
+8     qRT-PCR                       47
+9     GWAS                          46
+10    Illumina                      36
+11    FPKM                          33
+12    SNP                           33
+13    PacBio                        30
+14    metabolome/metabolomic        21
+15    HPLC                          19
+16    WGCNA                         17
+17    NMR                           15
+18    CRISPR/Cas9                   14
+19    proteome/proteomic            10
+20    Nanopore                      9
+21    QTL                           9
+22    SEM                           9
+23    single-cell sequencing        4
+24    GC-MS                         2
+25    LC-MS                         2
+
+--------------------------------------------------
+六、代谢途径与生物学过程（TOP 25）
+--------------------------------------------------
+排名    途径/过程                              频次
+1     lignin biosynthesis                309
+2     polysaccharide                     66
+3     cellulose biosynthesis             43
+4     phenylpropanoid pathway            41
+5     auxin                              27
+6     antioxidant                        22
+7     flavonoid biosynthesis             20
+8     photosynthesis                     20
+9     oxidative stress                   18
+10    ABA signaling                      14
+11    hyaluronic acid                    13
+12    glycolysis                         12
+13    starch metabolism                  10
+14    SA signaling                       8
+15    gibberellin                        7
+16    MAPK cascade                       6
+17    cytokinin                          6
+18    triacylglycerol (TAG)              5
+19    JA signaling                       3
+20    ethylene signaling                 3
+21    brassinosteroid                    3
+22    strigolactone                      2
+23    TCA cycle                          1
+
+
+统计时间：2026年5月15日
+文献总数：30篇
+文本总量：1,850,655 字符
